@@ -1,7 +1,7 @@
 ## 📑 Main Repositories
-* [Convex-backend](https://github.com/get-convex/convex-backend): The open-source Convex backend.
-* [Convex-helpers](https://github.com/get-convex/convex-helpers): Components that you can grab off the shelf to quickly add features to your app's backend.
-* [Templates](https://github.com/get-convex/templates): Get working applications and skeletons out of the box to inspire you or get started quickly.
+* [Convex-backend](https://github.com/convex/convex-backend): The open-source Convex backend.
+* [Convex-helpers](https://github.com/convex/convex-helpers): Components that you can grab off the shelf to quickly add features to your app's backend.
+* [Templates](https://github.com/convex/templates): Get working applications and skeletons out of the box to inspire you or get started quickly.
 
 ## 🛠️ Resources
 * [Documentation](https://docs.convex.dev): Learn the basics and get started.
